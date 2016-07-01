@@ -1,2 +1,3 @@
 # hello-world
-practice repozitory
+
+This is a practice repozitory
